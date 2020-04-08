@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.airbaltic.com
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20181027T140036
+DTSTART:20190623T181500Z
+DTEND:20190623T232000Z
+UID:6a0f0e898c72d71b7a63ffaee7d6e7e8
+CREATED:20181027T140036
+SUMMARY:Рейс Таллин (TLL) – Баку(GYD)
+DESCRIPTION:Номер резервации: PPVEV8\nРейс airBaltic BT 318\nВылет из Таллин  (TLL) 23 июн. 2019 в 21:15 (по местному времени)\nПрилет в Баку (GYD) 24 июн. 2019 в 03:20 (по местному времени)\n\nПо вопросам, связанным с данной резервацией, звоните нам по номеру +371 67006006.\nЖелаем Вам приятного полета!
+LOCATION:TLL (Таллин)
+URL;VALUE=URI:www.airbaltic.com
+LAST-MODIFIED:20181027T140036
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT120M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181027T140036
+DTSTART:20190708T001000Z
+DTEND:20190708T062000Z
+UID:e954770649f8ae0ca44be31f2ee3fa2b
+CREATED:20181027T140036
+SUMMARY:Рейс Баку (GYD) – Таллин(TLL)
+DESCRIPTION:Номер резервации: PPVEV8\nРейс airBaltic BT 733\nВылет из Баку  (GYD) 8 июл. 2019 в 04:10 (по местному времени)\nПрилет в Таллин (TLL) 8 июл. 2019 в 09:20 (по местному времени)\n\nПо вопросам, связанным с данной резервацией, звоните нам по номеру +371 67006006.\nЖелаем Вам приятного полета!
+LOCATION:GYD (Баку)
+URL;VALUE=URI:www.airbaltic.com
+LAST-MODIFIED:20181027T140036
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT120M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
